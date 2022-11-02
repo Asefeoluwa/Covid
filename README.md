@@ -1,4 +1,4 @@
-# Covid
+# Covid-SQL PROJECT
 "No JOINS were hurt in the completion of this project"
 
 
