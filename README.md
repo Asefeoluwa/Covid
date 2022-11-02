@@ -3,7 +3,7 @@
 
 
 Working with the Covid Dataset to gain Insights
-This was a projected guided by Alex_Freberg. In order to make this project feel like home I made a major adjustments.
+This is a SQL projected guided by Alex_Freberg. In order to make this project feel like home I made a major adjustments.
 
 1. Dataset: The original dataset used by Alex_Freberg is is split into death metrics and vaccination metrics. Instead I used the most updated version of this dataset as of October 2022. which is why I say no Joins were hurt in the completion of this project.
 
