@@ -111,3 +111,5 @@ SUM(convert(float, new_vaccinations)) OVER(partition by location order by date) 
 FROM [SQL Tutorial]..covid_deaths
 WHERE continent is not null;
 
+
+--THE END
