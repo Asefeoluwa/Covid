@@ -3,10 +3,10 @@
 
 
 Working with the Covid Dataset to gain Insights
-This is a SQL projected guided by Alex_Freberg. In order to make this project feel like home I made a major adjustments.
+This is a SQL projected guided by Alex_Freberg. In order to make this project feel like home I made a minor adjustment.
 
-1. Dataset: The original dataset used by Alex_Freberg is is split into death metrics and vaccination metrics. Instead I used the most updated version of this dataset as of October 2022. which is why I say no Joins were hurt in the completion of this project.
+1. Dataset: The original dataset used by Alex_Freberg is split into two datasets death metrics and vaccination metrics. Instead this project uses the most recent version of the dataset resulting one only one dataset. Hence no JOINS were hurt in the completion of this project. I have a feww other projects that use inner Joins and Left Joins e.t.c
 
 
 ## A few things that shocked me while doing this project。
-1. At the peak of Covid in Canada the probability of dying after getting covid was roughly 9%. For all the disruptive changes that were being made by the government, and the ways it was cvered in the news I was expecting to see a 20% death rate at least. This is why data is important. 
+1. At the peak of Covid in Canada the probability of dying after getting covid was roughly 9%.
